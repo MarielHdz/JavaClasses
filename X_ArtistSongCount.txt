@@ -1,0 +1,47 @@
+Ariana Grande,29
+Beyonce,138
+Blake Shelton,127
+Boyz II Men,143
+Bush,92
+Chris Brown,188
+Coldplay,101
+Drake,94
+Ed Sheeran,40
+Eminem,190
+Fall Out Boy,86
+Fleetwood Mac,281
+Florida Georgia Line,38
+George Strait,346
+Hozier,13
+Iggy Azalea,15
+Jason Aldean,94
+Jay-Z,197
+Jessie J,13
+John Mayer,138
+Kanye West,98
+Katy Perry,40
+Kendrick Lamar,45
+Kenny Chesney,180
+Lana Del Rey,45
+Lil' Wayne,178
+Linkin Park,122
+Little Big Town,34
+Logic,15
+Luke Bryan,75
+Maroon 5,59
+Michael Jackson,292
+Pink Floyd,319
+Pitbull,117
+R. Kelly,245
+Rihanna,99
+Sam Smith,14
+T.I.,133
+Taylor Swift,91
+The Game,145
+The Rolling Stones,389
+Trey Songz,85
+Tupac Shakur,213
+U2,151
+Usher,120
+Wiz Khalifa,74
+Young Jeezy,172
